@@ -22,6 +22,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
 
+- **[Kaitai Struct](http://kaitai.io/)**: A declarative language used for describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.
+
 - **[Manticore](https://github.com/trailofbits/manticore)**: A prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
 
 - **[Metasm](https://github.com/jjyg/metasm)**: Ruby assembly manipulation suite
@@ -40,3 +42,5 @@ A list of reverse engineering tools with a focus on binary analysis.
 Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
 
 - **[Triton](https://triton.quarkslab.com/)**: A dynamic binary analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a Taint Engine, AST representations of the x86 and the x86-64 instructions set semantics, SMT simplification passes, an SMT Solver Interface and, the last but not least, Python bindings.
+
+- **[Vivisect](https://github.com/vivisect/vivisect)**: Python based static analysis and emulation framework.
