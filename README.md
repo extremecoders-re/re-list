@@ -1,1 +1,36 @@
 # binary-analysis-frameworks
+
+A list of binary analysis tools and frameworks created for quick reference.
+
+- **[Amoco](https://github.com/bdcht/amoco)**: A python package dedicated to the (static) analysis of binaries.
+
+- **[Angr](http://angr.io/)**: A python framework for analyzing binaries. It combines both static and dynamic symbolic ("concolic") analysis, making it applicable to a variety of tasks.
+
+- **[BARF](https://github.com/programa-stic/barf-project)**: An open source binary analysis framework. It is a scriptable platform that supports instruction lifting from multiple architectures, binary translation to an intermediate representation, an extensible framework for code analysis plugins and interoperation with external tools such as debuggers, SMT solvers and instrumentation tools.
+
+- **[BAP](https://github.com/BinaryAnalysisPlatform/bap)**: The Binary Analysis Platform is a reverse engineering and program analysis platform that targets binaries, i.e., compiled programs without the source code. BAP supports multiple architectures (more than 30), though the first tier architectures are x86, x86-64, and ARM. 
+
+- **[BinCAT](https://github.com/airbus-seclab/bincat)**: A static Binary Code Analysis Toolkit, designed to help reverse engineers, directly from IDA. It features: value analysis (registers and memory), taint analysis, type reconstruction and propagation, backward and forward analysis
+
+- **[Bindead](https://bitbucket.org/mihaila/bindead/wiki/Home)**: An analyzer for executable machine code. It features a disassembler that translates machine code bits into an assembler like language (RREIL) that in turn is then analyzed by the static analysis component using abstract interpretation. As Bindead operates on the machine code level, it can be used without having the source code of the program to be analyzed.
+
+- **[BitBlaze](http://bitblaze.cs.berkeley.edu/)**: BitBlaze Binary Analysis Platform features a novel fusion of static and dynamic analysis techniques, dynamic symbolic execution, and whole-system emulation and binary instrumentation. 
+
+- **[Falcon](https://github.com/falconre/falcon)**: A formal binary analysis framework in Rust. Falcon seeks to implement data-flow analysis, abstract interpretation, and constraint solving over compiled, binary executables.
+
+- **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
+
+- **[Manticore](https://github.com/trailofbits/manticore)**: A prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
+
+- **[Metasm](https://github.com/jjyg/metasm)**: Ruby assembly manipulation suite
+
+- **[Miasm](https://github.com/cea-sec/miasm)**: Free and open source (GPLv2) reverse engineering framework. Miasm aims to analyze / modify / generate binary programs.
+
+- **[Pharos](https://github.com/cmu-sei/pharos)**: The framework is designed to facilitate the automated analysis of binary programs. It uses the ROSE compiler infrastructure for disassembly, control flow analysis, instruction semantics, and more.
+
+- **[Ponce](https://github.com/illera88/Ponce)**: An IDA Pro plugin that provides users the ability to perform taint analysis and symbolic execution over binaries in an easy and intuitive fashion. With Ponce you are one click away from getting all the power from cutting edge symbolic execution.
+
+- **[Remill](https://github.com/trailofbits/remill)**: A static binary translator that translates machine code instructions into LLVM bitcode. It translates x86 and amd64 machine code into LLVM bitcode. 
+Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
+
+- **[Triton](https://triton.quarkslab.com/)**: A dynamic binary analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a Taint Engine, AST representations of the x86 and the x86-64 instructions set semantics, SMT simplification passes, an SMT Solver Interface and, the last but not least, Python bindings.
