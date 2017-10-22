@@ -16,6 +16,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[BitBlaze](http://bitblaze.cs.berkeley.edu/)**: BitBlaze Binary Analysis Platform features a novel fusion of static and dynamic analysis techniques, dynamic symbolic execution, and whole-system emulation and binary instrumentation. 
 
+- **[Cutter](https://github.com/radareorg/cutter)**: A Qt and C++ GUI for radare2.
+
 - **[Falcon](https://github.com/falconre/falcon)**: A formal binary analysis framework in Rust. Falcon seeks to implement data-flow analysis, abstract interpretation, and constraint solving over compiled, binary executables.
 
 - **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
@@ -24,7 +26,11 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Metasm](https://github.com/jjyg/metasm)**: Ruby assembly manipulation suite
 
+- **[Medusa](https://github.com/wisk/medusa)**: A disassembler designed to be both modular and interactive. 
+
 - **[Miasm](https://github.com/cea-sec/miasm)**: Free and open source (GPLv2) reverse engineering framework. Miasm aims to analyze / modify / generate binary programs.
+
+- **[Panopticon](https://github.com/das-labor/panopticon)**: A cross platform disassembler for reverse engineering written in Rust. It can disassemble AMD64, x86, AVR and MOS 6502 instruction sets and open ELF files. Panopticon comes with Qt GUI for browsing and annotating control flow graphs.
 
 - **[Pharos](https://github.com/cmu-sei/pharos)**: The framework is designed to facilitate the automated analysis of binary programs. It uses the ROSE compiler infrastructure for disassembly, control flow analysis, instruction semantics, and more.
 
