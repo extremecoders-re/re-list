@@ -1,6 +1,6 @@
-# binary-analysis-frameworks
+# RE list
 
-A list of binary analysis tools and frameworks created for quick reference.
+A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Amoco](https://github.com/bdcht/amoco)**: A python package dedicated to the (static) analysis of binaries.
 
