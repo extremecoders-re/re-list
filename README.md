@@ -41,6 +41,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 - **[Remill](https://github.com/trailofbits/remill)**: A static binary translator that translates machine code instructions into LLVM bitcode. It translates x86 and amd64 machine code into LLVM bitcode. 
 Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
 
+- **[Simplify](https://github.com/CalebFenton/simplify)**: Simplify virtually executes an app to understand its behavior and then tries to optimize the code so that it behaves identically but is easier for a human to understand. Each optimization type is simple and generic, so it doesn't matter what the specific type of obfuscation is used.
+
 - **[Triton](https://triton.quarkslab.com/)**: A dynamic binary analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a Taint Engine, AST representations of the x86 and the x86-64 instructions set semantics, SMT simplification passes, an SMT Solver Interface and, the last but not least, Python bindings.
 
 - **[Vivisect](https://github.com/vivisect/vivisect)**: Python based static analysis and emulation framework.
