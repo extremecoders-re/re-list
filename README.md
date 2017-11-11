@@ -43,6 +43,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 - **[Remill](https://github.com/trailofbits/remill)**: A static binary translator that translates machine code instructions into LLVM bitcode. It translates x86 and amd64 machine code into LLVM bitcode. 
 Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
 
+- **[ScratchABit](https://github.com/pfalcon/ScratchABit)**: An interactive incremental disassembler with data/control flow analysis capabilities. ScratchABit supports well-known in the community IDAPython API to write disassembly/extension modules.
+
 - **[Simplify](https://github.com/CalebFenton/simplify)**: Simplify virtually executes an app to understand its behavior and then tries to optimize the code so that it behaves identically but is easier for a human to understand. Each optimization type is simple and generic, so it doesn't matter what the specific type of obfuscation is used.
 
 - **[SymGDB](https://github.com/SQLab/symgdb)**: Symbolic execution extention for gdb. Uses triton for symbolic execution.
