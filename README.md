@@ -16,6 +16,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[BitBlaze](http://bitblaze.cs.berkeley.edu/)**: BitBlaze Binary Analysis Platform features a novel fusion of static and dynamic analysis techniques, dynamic symbolic execution, and whole-system emulation and binary instrumentation. 
 
+- **[Cemu](https://github.com/hugsy/cemu)**: Cheap EMUlator: lightweight multi-architecture assembly playground
+
 - **[Cutter](https://github.com/radareorg/cutter)**: A Qt and C++ GUI for radare2.
 
 - **[Falcon](https://github.com/falconre/falcon)**: A formal binary analysis framework in Rust. Falcon seeks to implement data-flow analysis, abstract interpretation, and constraint solving over compiled, binary executables.
