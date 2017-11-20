@@ -28,6 +28,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Manticore](https://github.com/trailofbits/manticore)**: A prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
 
+- **[Mcsema](https://github.com/trailofbits/mcsema)**: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode.
+
 - **[Metasm](https://github.com/jjyg/metasm)**: Ruby assembly manipulation suite
 
 - **[Medusa](https://github.com/wisk/medusa)**: A disassembler designed to be both modular and interactive. 
