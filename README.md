@@ -36,6 +36,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Miasm](https://github.com/cea-sec/miasm)**: Free and open source (GPLv2) reverse engineering framework. Miasm aims to analyze / modify / generate binary programs.
 
+- **[Panda](https://github.com/panda-re/panda)**: PANDA is an open-source Platform for Architecture-Neutral Dynamic Analysis. It is built upon the QEMU whole system emulator, and so analyses have access to all code executing in the guest and all data. PANDA adds the ability to record and replay executions, enabling iterative, deep, whole system analyses. 
+
 - **[Panopticon](https://github.com/das-labor/panopticon)**: A cross platform disassembler for reverse engineering written in Rust. It can disassemble AMD64, x86, AVR and MOS 6502 instruction sets and open ELF files. Panopticon comes with Qt GUI for browsing and annotating control flow graphs.
 
 - **[Pharos](https://github.com/cmu-sei/pharos)**: The framework is designed to facilitate the automated analysis of binary programs. It uses the ROSE compiler infrastructure for disassembly, control flow analysis, instruction semantics, and more.
