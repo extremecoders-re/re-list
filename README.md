@@ -20,6 +20,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Cutter](https://github.com/radareorg/cutter)**: A Qt and C++ GUI for radare2.
 
+ - **[DECAF](https://github.com/sycurelab/DECAF)**: DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.
+ 
 - **[Falcon](https://github.com/falconre/falcon)**: A formal binary analysis framework in Rust. Falcon seeks to implement data-flow analysis, abstract interpretation, and constraint solving over compiled, binary executables.
 
 - **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
