@@ -6,6 +6,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Angr](http://angr.io/)**: A python framework for analyzing binaries. It combines both static and dynamic symbolic ("concolic") analysis, making it applicable to a variety of tasks.
 
+ - **[Avatar²](https://github.com/avatartwo/avatar2)**:  Avatar is a target orchestration framework with focus on dynamic analysis of embedded devices' firmware.
+ 
 - **[BARF](https://github.com/programa-stic/barf-project)**: An open source binary analysis framework. It is a scriptable platform that supports instruction lifting from multiple architectures, binary translation to an intermediate representation, an extensible framework for code analysis plugins and interoperation with external tools such as debuggers, SMT solvers and instrumentation tools.
 
 - **[BAP](https://github.com/BinaryAnalysisPlatform/bap)**: The Binary Analysis Platform is a reverse engineering and program analysis platform that targets binaries, i.e., compiled programs without the source code. BAP supports multiple architectures (more than 30), though the first tier architectures are x86, x86-64, and ARM. 
