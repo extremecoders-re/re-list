@@ -63,6 +63,8 @@ Remill focuses on accurately lifting instructions. It is meant to be used as a l
 
 - **[Simplify](https://github.com/CalebFenton/simplify)**: Simplify virtually executes an app to understand its behavior and then tries to optimize the code so that it behaves identically but is easier for a human to understand. Each optimization type is simple and generic, so it doesn't matter what the specific type of obfuscation is used.
 
+- **[SimplifyGraph](https://github.com/fireeye/SimplifyGraph)**: IDA Pro plugin to assist with complex graphs
+
 - **[Sibyl](https://github.com/cea-sec/Sibyl)**: Identifies function by studying its side-effects. Uses Miasm under the hood.
 
 - **[SymGDB](https://github.com/SQLab/symgdb)**: Symbolic execution extention for gdb. Uses triton for symbolic execution.
