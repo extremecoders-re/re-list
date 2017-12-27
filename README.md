@@ -54,6 +54,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Pysymemu](https://github.com/feliam/pysymemu)**: A symbolic execution tool, capable of automatically generating interesting inputs for x86/x64 binary programs.
 
+- **[QBDI](https://github.com/quarkslab/QBDI)**: A modular, cross-platform and cross-architecture DBI framework. It aims to support Linux, macOS, Android, iOS and Windows operating systems running on x86, x86-64, ARM and AArch64 architectures
+
 - **[Remill](https://github.com/trailofbits/remill)**: A static binary translator that translates machine code instructions into LLVM bitcode. It translates x86 and amd64 machine code into LLVM bitcode. 
 Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
 
