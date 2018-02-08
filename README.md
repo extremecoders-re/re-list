@@ -61,6 +61,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 - **[Remill](https://github.com/trailofbits/remill)**: A static binary translator that translates machine code instructions into LLVM bitcode. It translates x86 and amd64 machine code into LLVM bitcode. 
 Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
 
+- **[REDasm](https://github.com/REDasmOrg/REDasm)**: An interactive, multiarchitecture disassembler written in C++ using Qt5 as UI Framework, its core is light and it can be extended in order to support new instructions and file formats.
+
  - **[S²E](http://s2e.systems/)**: S²E is a platform for writing tools that analyze the properties and behavior of software systems. S²E comes as a modular library that gives virtual machines symbolic execution and program analysis capabilities. S²E runs unmodified x86, x86-64, or ARM software stacks, including programs, libraries, the kernel, and drivers. Symbolic execution then automatically explores hundreds of thousands of paths through the system, while analyzers check that the desired properties hold on these paths and selectors focus path exploration on components of interest.
  
 - **[ScratchABit](https://github.com/pfalcon/ScratchABit)**: An interactive incremental disassembler with data/control flow analysis capabilities. ScratchABit supports well-known in the community IDAPython API to write disassembly/extension modules.
