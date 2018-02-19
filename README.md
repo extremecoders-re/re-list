@@ -24,6 +24,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
  - **[DECAF](https://github.com/sycurelab/DECAF)**: DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.
  
+ - **[Deepstate](https://github.com/trailofbits/deepstate)**: A framework that provides C and C++ developers with a common interface to various symbolic execution and fuzzing engines. Users can write one test harness using a Google Test-like API, then execute it using multiple backends without having to learn the complexities of the underlying engines.
+ 
 - **[Falcon](https://github.com/falconre/falcon)**: A formal binary analysis framework in Rust. Falcon seeks to implement data-flow analysis, abstract interpretation, and constraint solving over compiled, binary executables.
 
 - **[Gdbgui](https://github.com/cs01/gdbgui)**: A modern, browser-based frontend to gdb (gnu debugger). Add breakpoints, view stack traces, and more in C, C++, Go, and Rust! Simply run gdbgui from the terminal and a new tab will open in your browser.
