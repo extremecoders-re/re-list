@@ -1,6 +1,6 @@
 # RE list
 
-A list of reverse engineering tools with a focus on binary analysis.
+A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Amoco](https://github.com/bdcht/amoco)**: A python package dedicated to the (static) analysis of binaries.
 
