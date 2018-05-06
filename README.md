@@ -30,6 +30,8 @@ A list of reverse engineering tools with a focus on binary analysis.
 
 - **[Gdbgui](https://github.com/cs01/gdbgui)**: A modern, browser-based frontend to gdb (gnu debugger). Add breakpoints, view stack traces, and more in C, C++, Go, and Rust! Simply run gdbgui from the terminal and a new tab will open in your browser.
 
+- **[Insight](https://insight.labri.fr/)**: The Insight project is devoted to binary analysis to serve several purposes such as:    Binary verification, Reverse engineering, Binary test cases extraction, Decompilation to higher-level languages.
+
 - **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
 
 - **[Kaitai Struct](http://kaitai.io/)**: A declarative language used for describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.
