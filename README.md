@@ -36,6 +36,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Kaitai Struct](http://kaitai.io/)**: A declarative language used for describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.
 
+- **[LIEF](https://github.com/lief-project/LIEF)**: Library to Instrument Executable Formats. The purpose of this project is to provide a cross platform library which can parse, modify and abstract ELF, PE and MachO formats.
+
 - **[LuaQEMU](https://github.com/Comsecuris/luaqemu)**: A QEMU-based framework exposing several of QEMU-internal APIs to a LuaJIT core injected into QEMU itself. Among other things, this allows fast prototyping of target systems without any native code and minimal effort in Lua.
 
 - **[Manticore](https://github.com/trailofbits/manticore)**: A prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
