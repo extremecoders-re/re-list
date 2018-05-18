@@ -26,6 +26,10 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
  
  - **[Deepstate](https://github.com/trailofbits/deepstate)**: A framework that provides C and C++ developers with a common interface to various symbolic execution and fuzzing engines. Users can write one test harness using a Google Test-like API, then execute it using multiple backends without having to learn the complexities of the underlying engines.
  
+ - **[DynamoRIO](http://www.dynamorio.org/)**: DynamoRIO is a runtime code manipulation system that supports code transformations on any part of a program, while it executes. DynamoRIO exports an interface for building dynamic tools for a wide variety of uses: program analysis and understanding, profiling, instrumentation, optimization, translation, etc.
+ 
+ - **[ERESI](https://github.com/thorkill/eresi)**: The ERESI Reverse Engineering Software Interface is a multi-architecture binary analysis framework with a domain-specific language tailored to reverse engineering and program manipulation.
+ 
 - **[Falcon](https://github.com/falconre/falcon)**: A formal binary analysis framework in Rust. Falcon seeks to implement data-flow analysis, abstract interpretation, and constraint solving over compiled, binary executables.
 
 - **[Gdbgui](https://github.com/cs01/gdbgui)**: A modern, browser-based frontend to gdb (gnu debugger). Add breakpoints, view stack traces, and more in C, C++, Go, and Rust! Simply run gdbgui from the terminal and a new tab will open in your browser.
