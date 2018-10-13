@@ -79,6 +79,8 @@ Remill focuses on accurately lifting instructions. It is meant to be used as a l
 
 - **[REDasm](https://github.com/REDasmOrg/REDasm)**: An interactive, multiarchitecture disassembler written in C++ using Qt5 as UI Framework, its core is light and it can be extended in order to support new instructions and file formats.
 
+- **[Rev.ng](https://rev.ng/)**: rev.ng is a suite of tools for binary analysis based on QEMU and LLVM, aiming at accuracy and portability of the analyses across a wide range of architectures.
+
  - **[S²E](http://s2e.systems/)**: S²E is a platform for writing tools that analyze the properties and behavior of software systems. S²E comes as a modular library that gives virtual machines symbolic execution and program analysis capabilities. S²E runs unmodified x86, x86-64, or ARM software stacks, including programs, libraries, the kernel, and drivers. Symbolic execution then automatically explores hundreds of thousands of paths through the system, while analyzers check that the desired properties hold on these paths and selectors focus path exploration on components of interest.
  
 - **[ScratchABit](https://github.com/pfalcon/ScratchABit)**: An interactive incremental disassembler with data/control flow analysis capabilities. ScratchABit supports well-known in the community IDAPython API to write disassembly/extension modules.
