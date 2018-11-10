@@ -98,3 +98,5 @@ Remill focuses on accurately lifting instructions. It is meant to be used as a l
 - **[Triton](https://triton.quarkslab.com/)**: A dynamic binary analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a Taint Engine, AST representations of the x86 and the x86-64 instructions set semantics, SMT simplification passes, an SMT Solver Interface and, the last but not least, Python bindings.
 
 - **[Vivisect](https://github.com/vivisect/vivisect)**: Python based static analysis and emulation framework.
+
+- **[X86isa](http://www.cs.utexas.edu/users/moore/acl2/manuals/current/manual/index-seo.php/ACL2____X86ISA)**: x86 ISA model and machine-code analysis framework developed at UT Austin.
