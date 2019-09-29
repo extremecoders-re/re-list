@@ -68,6 +68,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Pimp](https://github.com/radare/radare2-extras/tree/master/pimp)**: Triton based R2 plugin for concolic execution
 
+- **[Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool)**: Pin is a dynamic binary instrumentation framework for the IA-32, x86-64 and MIC instruction-set architectures that enables the creation of dynamic program analysis tools.
+
 - **[PINCE](https://github.com/korcankaraokcu/PINCE)**: A front-end/reverse engineering tool for the GNU Project Debugger (GDB), focused on games. But it can be used for any reverse-engineering related stuff.
 
 - **[Ponce](https://github.com/illera88/Ponce)**: An IDA Pro plugin that provides users the ability to perform taint analysis and symbolic execution over binaries in an easy and intuitive fashion. With Ponce you are one click away from getting all the power from cutting edge symbolic execution.
