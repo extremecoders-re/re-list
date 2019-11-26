@@ -38,6 +38,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[GTIRB](https://github.com/GrammaTech/gtirb)**: The GrammaTech Intermediate Representation for Binaries (GTIRB) is a machine code analysis and rewriting data structure. It is intended to facilitate the communication of binary IR between programs performing binary disassembly, analysis, transformation, and pretty printing. GTIRB is modeled on LLVM-IR, and seeks to serve a similar functionality of encouraging communication and interoperability between tools
 
+- **[haybale](https://github.com/PLSysSec/haybale)**: A general-purpose symbolic execution engine written in Rust. It operates on LLVM IR, which allows it to analyze programs written in C/C++, Rust, Swift, or any other language which compiles to LLVM IR.
+
 - **[Insight](https://insight.labri.fr/)**: The Insight project is devoted to binary analysis to serve several purposes such as:    Binary verification, Reverse engineering, Binary test cases extraction, Decompilation to higher-level languages.
 
 - **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
