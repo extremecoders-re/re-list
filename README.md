@@ -86,6 +86,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[QBDI](https://github.com/quarkslab/QBDI)**: A modular, cross-platform and cross-architecture DBI framework. It aims to support Linux, macOS, Android, iOS and Windows operating systems running on x86, x86-64, ARM and AArch64 architectures
 
+- **[Qiling Framework](https://github.com/qilingframework/qiling)**: An advanced binary emulation framework.
+
 - **[Remill](https://github.com/trailofbits/remill)**: A static binary translator that translates machine code instructions into LLVM bitcode. It translates x86 and amd64 machine code into LLVM bitcode. 
 Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
 
