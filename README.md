@@ -40,6 +40,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[haybale](https://github.com/PLSysSec/haybale)**: A general-purpose symbolic execution engine written in Rust. It operates on LLVM IR, which allows it to analyze programs written in C/C++, Rust, Swift, or any other language which compiles to LLVM IR.
 
+- **[hobbits](https://github.com/Mahlet-Inc/hobbits)**: A multi-platform GUI for bit-based analysis, processing, and visualization.
+
 - **[Insight](https://insight.labri.fr/)**: The Insight project is devoted to binary analysis to serve several purposes such as:    Binary verification, Reverse engineering, Binary test cases extraction, Decompilation to higher-level languages.
 
 - **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
