@@ -118,4 +118,6 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Vivisect](https://github.com/vivisect/vivisect)**: Python based static analysis and emulation framework.
 
+- **[VTIL](https://github.com/vtil-project)**: VTIL (Virtual-machine Translation Intermediate Language) Project is a set of tools that can be used for binary deobfuscation and devirtualization.
+
 - **[X86isa](http://www.cs.utexas.edu/users/moore/acl2/manuals/current/manual/index-seo.php/ACL2____X86ISA)**: x86 ISA model and machine-code analysis framework developed at UT Austin.
