@@ -6,6 +6,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Angr](http://angr.io/)**: A python framework for analyzing binaries. It combines both static and dynamic symbolic ("concolic") analysis, making it applicable to a variety of tasks.
 
+- **[ANVILL](https://github.com/lifting-bits/anvill)**: ANVILL forges beautiful LLVM bitcode out of raw machine code. Anvill implements simple machine code lifting primitives using Remill. The goal of these components is to produce high quality bitcode, which can then be further decompiled to C (via Clang ASTs) using Rellic.
+
  - **[Avatar²](https://github.com/avatartwo/avatar2)**:  Avatar is a target orchestration framework with focus on dynamic analysis of embedded devices' firmware.
  
 - **[BARF](https://github.com/programa-stic/barf-project)**: An open source binary analysis framework. It is a scriptable platform that supports instruction lifting from multiple architectures, binary translation to an intermediate representation, an extensible framework for code analysis plugins and interoperation with external tools such as debuggers, SMT solvers and instrumentation tools.
