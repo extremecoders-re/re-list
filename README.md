@@ -58,6 +58,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[macaw](https://github.com/GaloisInc/macaw)**: Open source binary analysis tools.
 
+- **[Maat](https://github.com/trailofbits/maat)**: Open-source Dynamic Symbolic Execution and Binary Analysis framework. It provides various functionalities such as symbolic execution, taint analysis, constraint solving, binary loading, environment simulation, and leverages Ghidra's sleigh library for assembly lifting
+
 - **[Manticore](https://github.com/trailofbits/manticore)**: A prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
 
 - **[Mcsema](https://github.com/trailofbits/mcsema)**: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode.
