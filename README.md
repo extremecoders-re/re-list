@@ -26,14 +26,16 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[cwe_checker](https://github.com/fkie-cad/cwe_checker)**: A suite of tools to detect common bug classes such as use of dangerous functions and simple integer overflows. Its main focus are ELF binaries that are commonly found on Linux and Unix operating systems. cwe_checker is built on top of BAP(Binary Analysis Platform).
 
- - **[DECAF](https://github.com/sycurelab/DECAF)**: DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.
+- **[DECAF](https://github.com/sycurelab/DECAF)**: DECAF(short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.
  
- - **[Deepstate](https://github.com/trailofbits/deepstate)**: A framework that provides C and C++ developers with a common interface to various symbolic execution and fuzzing engines. Users can write one test harness using a Google Test-like API, then execute it using multiple backends without having to learn the complexities of the underlying engines.
+- **[Deepstate](https://github.com/trailofbits/deepstate)**: A framework that provides C and C++ developers with a common interface to various symbolic execution and fuzzing engines. Users can write one test harness using a Google Test-like API, then execute it using multiple backends without having to learn the complexities of the underlying engines.
  
- - **[DynamoRIO](http://www.dynamorio.org/)**: DynamoRIO is a runtime code manipulation system that supports code transformations on any part of a program, while it executes. DynamoRIO exports an interface for building dynamic tools for a wide variety of uses: program analysis and understanding, profiling, instrumentation, optimization, translation, etc.
+- **[DynamoRIO](http://www.dynamorio.org/)**: DynamoRIO is a runtime code manipulation system that supports code transformations on any part of a program, while it executes. DynamoRIO exports an interface for building dynamic tools for a wide variety of uses: program analysis and understanding, profiling, instrumentation, optimization, translation, etc.
  
- - **[ERESI](https://github.com/thorkill/eresi)**: The ERESI Reverse Engineering Software Interface is a multi-architecture binary analysis framework with a domain-specific language tailored to reverse engineering and program manipulation.
+- **[ERESI](https://github.com/thorkill/eresi)**: The ERESI Reverse Engineering Software Interface is a multi-architecture binary analysis framework with a domain-specific language tailored to reverse engineering and program manipulation.
  
+- **[esilsolve](https://github.com/radareorg/esilsolve)**: A python symbolic execution framework using radare2's ESIL.
+
 - **[Falcon](https://github.com/falconre/falcon)**: A formal binary analysis framework in Rust. Falcon seeks to implement data-flow analysis, abstract interpretation, and constraint solving over compiled, binary executables.
 
 - **[Gdbgui](https://github.com/cs01/gdbgui)**: A modern, browser-based frontend to gdb (gnu debugger). Add breakpoints, view stack traces, and more in C, C++, Go, and Rust! Simply run gdbgui from the terminal and a new tab will open in your browser.
