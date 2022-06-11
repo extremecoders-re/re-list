@@ -94,6 +94,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Qiling Framework](https://github.com/qilingframework/qiling)**: An advanced binary emulation framework.
 
+- **[radius2](https://github.com/aemmitt-ns/radius)**: A fast binary emulation and symbolic execution framework using radare2.
+
 - **[Rellic](https://github.com/lifting-bits/rellic)**:  Rellic produces goto-free C output from LLVM bitcode. Rellic is an implementation of the pattern-independent structuring algorithm to produce a goto-free C output from LLVM bitcode.
 
 - **[Remill](https://github.com/trailofbits/remill)**: A static binary translator that translates machine code instructions into LLVM bitcode. It translates x86 and amd64 machine code into LLVM bitcode. Remill focuses on accurately lifting instructions. It is meant to be used as a library for other tools, e.g. McSema.
