@@ -56,6 +56,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Kaitai Struct](http://kaitai.io/)**: A declarative language used for describe various binary data structures, laid out in files or in memory: i.e. binary file formats, network stream packet formats, etc.
 
+- **[libvmi](https://libvmi.com/)**: A C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine by viewing its memory, trapping on hardware events, and accessing the vCPU registers.
+
 - **[LIEF](https://github.com/lief-project/LIEF)**: Library to Instrument Executable Formats. The purpose of this project is to provide a cross platform library which can parse, modify and abstract ELF, PE and MachO formats.
 
 - **[LLVM-mctoll](https://github.com/Microsoft/llvm-mctoll)**: This tool statically (AOT) translates (or raises) binaries to LLVM IR.
