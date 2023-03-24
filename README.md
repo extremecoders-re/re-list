@@ -48,6 +48,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[hobbits](https://github.com/Mahlet-Inc/hobbits)**: A multi-platform GUI for bit-based analysis, processing, and visualization.
 
+- **[IceBox](https://github.com/thalium/icebox)**: A Virtual Machine Introspection solution that enable you to stealthily trace and debug any process (kernel or user).
+
 - **[Insight](https://insight.labri.fr/)**: The Insight project is devoted to binary analysis to serve several purposes such as:    Binary verification, Reverse engineering, Binary test cases extraction, Decompilation to higher-level languages.
 
 - **[Jakstab](http://www.jakstab.org/)**: An Abstract Interpretation-based, integrated disassembly and static analysis framework for designing analyses on executables and recovering reliable control flow graphs.
