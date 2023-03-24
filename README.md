@@ -76,6 +76,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Medusa](https://github.com/wisk/medusa)**: A disassembler designed to be both modular and interactive. 
 
+- **[MemProcFS](https://github.com/ufrisk/MemProcFS)**: MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system. Easy trivial point and click memory analysis without the need for complicated commandline arguments! Access memory content and artifacts via files in a mounted virtual file system or via a feature rich application library to include in your own projects!
+
 - **[Miasm](https://github.com/cea-sec/miasm)**: Free and open source (GPLv2) reverse engineering framework. Miasm aims to analyze / modify / generate binary programs.
 
 - **[Multiverse](https://github.com/utds3lab/multiverse)**: A static binary rewriter with an emphasis on simplicity and correctness. It does not rely on heuristics to perform its rewriting, and it attempts to make as few assumptions as possible to produce a rewritten binary. 
