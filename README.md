@@ -130,6 +130,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Triton](https://triton.quarkslab.com/)**: A dynamic binary analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a Taint Engine, AST representations of the x86 and the x86-64 instructions set semantics, SMT simplification passes, an SMT Solver Interface and, the last but not least, Python bindings.
 
+- **[TritonDSE](https://github.com/quarkslab/tritondse)**: A Python library providing exploration capabilities to Triton and some refinement easing its usage. This library is primarily designed to perform pure emulation symbolic execution even though it can also be applied under different settings.
+
 - **[Valgrind](http://valgrind.org/)**: Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools. 
 
 - **[Vivisect](https://github.com/vivisect/vivisect)**: Python based static analysis and emulation framework.
