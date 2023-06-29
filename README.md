@@ -134,6 +134,8 @@ A list of open-source reverse engineering tools with a focus on binary analysis.
 
 - **[Valgrind](http://valgrind.org/)**: Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools. 
 
+- **[VAST](https://github.com/trailofbits/vast)**: A library for program analysis and instrumentation of C/C++ and related languages. VAST provides a foundation for customizable program representation for a broad spectrum of analyses. Using the MLIR infrastructure, VAST provides a toolset to represent C/C++ program at various stages of the compilation and to transform the representation to the best-fit program abstraction.
+
 - **[Vivisect](https://github.com/vivisect/vivisect)**: Python based static analysis and emulation framework.
 
 - **[VTIL](https://github.com/vtil-project)**: VTIL (Virtual-machine Translation Intermediate Language) Project is a set of tools that can be used for binary deobfuscation and devirtualization.
